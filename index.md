@@ -6,3 +6,7 @@
 var a = "Hello World";
 console,log(a);
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
